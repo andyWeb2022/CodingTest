@@ -1,7 +1,8 @@
 Question
 
-1. React Sandwich Builder
-   Problem:
+# React Sandwich Builder
+Problem:
+
    Create a "Sandwich Builder" app that lets users create the ultimate sandwich.
 
 Features:
@@ -10,6 +11,7 @@ Features:
 2. A "magic randomizer" button that builds a sandwich for the user randomly.
 3. Prevent users from adding "bacon" more than 5 times (because the bacon fairy gets upset).
 4. Display an alert if the user tries to add peanut butter and pickles together (because, why?).
+
 Requirements:
 
 1. Use React functional components.
