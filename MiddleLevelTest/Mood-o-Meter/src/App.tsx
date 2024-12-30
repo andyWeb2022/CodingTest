@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "./App.css";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <text className="Text">{emoji}</text>
+      <p className="Text">{emoji}</p>
       <div className="Div">
         {moodList.map((data, index) => (
           <button
